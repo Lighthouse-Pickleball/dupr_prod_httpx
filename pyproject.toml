@@ -1,7 +1,7 @@
 [project]
 name = "dupr_prod_httpx"
-version = "1.0.0"
-description = "DUPR APIs"
+version = "1.0.1"
+description = "DUPR Production APIs with httpx"
 authors = [
   {name = "OpenAPI Generator Community",email = "team@openapitools.org"},
 ]
@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/GIT_USER_ID/GIT_REPO_ID"
+Repository = "https://github.com/Lighthouse-Pickleball/dupr_prod_httpx.git"
 
 [tool.poetry]
 requires-poetry = ">=2.0"
